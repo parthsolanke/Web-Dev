@@ -1,3 +1,16 @@
+@media screen and (min-width: 700px) {
+    body {
+        background-color: lightgoldenrodyellow;
+    }
+}
+
+@media screen and (max-width: 699px) {
+    body {
+        background-color: lightcyan;
+    }
+    
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
@@ -43,9 +56,25 @@ table {
     border: 1px solid black;
 }
 
-td, th {
+td, th{
     border: 1px solid black;
     padding: 5px;
+}
+
+#form {
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button {
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
 }
 
 .button button {
@@ -60,4 +89,18 @@ td, th {
 
 .button button:active {
     background-color: darkgrey;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container > div{
+    background-color: lightgrey;
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 10px;
+    margin: 20px;
+    width: 20px;
 }
