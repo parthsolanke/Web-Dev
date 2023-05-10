@@ -47,3 +47,17 @@ td, th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.button button {
+    background-color: lightgrey;
+    padding: 5px;
+    margin: 5px;
+}
+
+.button button:hover {
+    background-color: grey;
+}
+
+.button button:active {
+    background-color: darkgrey;
+}
