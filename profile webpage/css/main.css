@@ -1,7 +1,7 @@
 /* 1. Base */
 html {
-    background-color: #5f45bb;;
-    background-image: linear-gradient(to bottom right, #180cac, #d054e4);;
+    background-color: beige;
+    background-image: linear-gradient(to bottom right, #daa520, #180cac);;
     color: #fff;
     font-family: "Quicksand", sans-serif;
     font-size: 16px;
@@ -14,7 +14,7 @@ html {
     text-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
     }
 
-a {
+a  {
     color: currentColor;
     cursor: pointer;
     text-decoration: none;
@@ -34,7 +34,7 @@ a {
     }
     
 .hr {
-    background-color: #ff470f;
+    background-color: #180cac;
     border: none;
     content: "";
     height: 1px;
@@ -81,7 +81,7 @@ a {
 
 /* 3. Specific */
 .wallpaper {
-    background-image: url("../images/wallpaper.jpeg");
+    background-image: url("../images/wallpstarn.png");
     background-position: center;
     background-size: cover;
     opacity: 0.2;
@@ -125,7 +125,7 @@ a {
     background-color: #fff;
     border-radius: 290486px;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-    color: #9013fe;
+    color: #180cac;
     display: inline-block;
     font-size: 0.875rem;
     line-height: 1;
