@@ -1,0 +1,123 @@
+#appheader {
+    display: flex;
+    margin: 28px 28px 10px 28px;
+}
+
+#appheader #c {
+    color: green;
+    border: solid;
+    width: 20px;
+    padding: 15px;
+    /* margin: 12%;*/
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#pipe1,
+#pipe2,
+#pipe3,
+#pipe4 {
+    width: 50px;
+    border-top: 1px solid green;
+    margin: 12px 0;
+    background: green;
+    border-bottom: 1px solid green;
+}
+
+#pipe0 {
+    width: 35px;
+}
+
+#pipe01 {
+    width: 15px;
+}
+
+#cn {
+    margin: 0 12px;
+}
+
+#appp {
+    display: flex;
+    margin-bottom: 28px;
+}
+
+.c1,
+.c2,
+.c3 {
+    background-color: green;
+}
+
+#appbody {
+    font: 700 15px 'open sans';
+    margin: 28px;
+}
+
+#reportheading {
+    font: bold 25px 'open sans';
+}
+
+.Table {
+    font: bold 20px 'open sans';
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.col1,
+.col2 {
+    width: 500px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+#love {
+    font: bold 45px 'open sans';
+    color: rgb(255, 0, 0);
+}
+
+#p1 {
+    font: bold 20px 'open sans';
+}
+
+#p2 {
+    font: bold 50px 'open sans';
+    color: rgb(67, 25, 218);
+}
+
+#p2p3 {
+    justify-content: center;
+    font: bold 20px 'open sans';
+    font-style: italic;
+    ;
+}
+
+#p3 {
+    margin-top: 5px;
+    font: bold 20px 'open sans'
+}
+
+#career {
+    color: white;
+    background-color: black;
+    border: none;
+    width: 310px;
+    height: 50px;
+    border-radius: 10px;
+    font: bold 20px 'open sans';
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#bg {
+    background-image: url(../images/caaareer.jpg);
+    margin-bottom: 0px;
+}

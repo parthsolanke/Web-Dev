@@ -1,0 +1,29 @@
+.info {
+    margin-top: 20px;
+    text-align: center;
+    font: bold 15px 'open sans';
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    margin-left: 5px;
+    background-image: url(../images/210902.jpg);
+}
+
+#clist {
+    margin: 20px 0;
+}
+
+.career {
+    font: bold 25px 'open sans';
+    border: 2px solid grey;
+    background-color: white;
+    margin: 20px 0;
+}
+
+#lol {
+    margin-top: 20px;
+    text-align: center;
+    font: bold 15px 'open sans';
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    margin-left: 0px;
+}
