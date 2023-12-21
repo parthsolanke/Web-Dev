@@ -1,0 +1,41 @@
+body{
+    background-color: gainsboro;
+    font-family: sans-serif;
+    text-align: center;
+}
+div{
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 10% auto;
+    padding: 20px 30px;
+    width: 400px;
+}
+h1{
+    color: #666;
+    font-weight: normal;
+}
+.NUM{
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 10% auto;
+    padding: 20px 30px;
+    width: 400px;
+}
+.NUM h2{
+    color:#666;
+    font-size: 50px;
+}
+.copyright {
+    color: #666;
+    width: 100%;
+    height: 2.5rem;
+    background-color: gainsboro;
+}
+footer{
+    margin-top: 10%;
+    padding: 10px;
+    background-color: gainsboro;
+    color: #666;
+    font-size: 12px;
+    text-align: center;
+}
